@@ -1,0 +1,1 @@
+This Sudoku Solver uses Brute Force Algorithm to solve a given Sudoku. For any blank cell it checks for all the number that can be placed and it is not already present in the same row or column or its own square.
